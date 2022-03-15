@@ -1,0 +1,11 @@
+body{
+    background-color: seagreen;
+}
+#h1 , h4, p{
+    color: rgb(88, 215, 247);
+}
+#camera{
+    width: 390px;
+    height: 300px;
+    border-style: dotted;
+}
